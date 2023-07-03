@@ -34,6 +34,11 @@ body {
   padding: 24px 0 10px;
 }
 
+#profile img {
+    border: 2px solid white;
+    border-radius: 50%;
+}
+
 #profile p {
   margin: 0;
 }
